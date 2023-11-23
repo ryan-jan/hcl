@@ -4,7 +4,7 @@
 package main
 
 import (
-	"github.com/hashicorp/hcl/v2"
+	"github.com/ryan-jan/hcl"
 )
 
 type LogBeginCallback func(testName string, testFile *TestFile)

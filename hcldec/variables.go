@@ -4,7 +4,7 @@
 package hcldec
 
 import (
-	"github.com/hashicorp/hcl/v2"
+	"github.com/ryan-jan/hcl"
 )
 
 // Variables processes the given body with the given spec and returns a

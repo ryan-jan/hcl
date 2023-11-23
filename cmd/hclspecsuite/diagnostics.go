@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/hashicorp/hcl/v2"
+	"github.com/ryan-jan/hcl"
 )
 
 func decodeJSONDiagnostics(src []byte) hcl.Diagnostics {

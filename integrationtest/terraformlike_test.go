@@ -9,12 +9,12 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/hashicorp/hcl/v2"
-	"github.com/hashicorp/hcl/v2/ext/dynblock"
-	"github.com/hashicorp/hcl/v2/gohcl"
-	"github.com/hashicorp/hcl/v2/hcldec"
-	"github.com/hashicorp/hcl/v2/hclsyntax"
-	"github.com/hashicorp/hcl/v2/json"
+	"github.com/ryan-jan/hcl"
+	"github.com/ryan-jan/hcl/ext/dynblock"
+	"github.com/ryan-jan/hcl/gohcl"
+	"github.com/ryan-jan/hcl/hcldec"
+	"github.com/ryan-jan/hcl/hclsyntax"
+	"github.com/ryan-jan/hcl/json"
 	"github.com/zclconf/go-cty/cty"
 	"github.com/zclconf/go-cty/cty/function"
 )

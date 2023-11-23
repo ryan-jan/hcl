@@ -6,7 +6,7 @@ package json
 import (
 	"math/big"
 
-	"github.com/hashicorp/hcl/v2"
+	"github.com/ryan-jan/hcl"
 )
 
 type node interface {

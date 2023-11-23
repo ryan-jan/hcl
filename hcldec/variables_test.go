@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/hashicorp/hcl/v2"
-	"github.com/hashicorp/hcl/v2/hclsyntax"
+	"github.com/ryan-jan/hcl"
+	"github.com/ryan-jan/hcl/hclsyntax"
 	"github.com/zclconf/go-cty/cty"
 )
 

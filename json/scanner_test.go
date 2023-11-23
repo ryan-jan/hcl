@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/hashicorp/hcl/v2"
+	"github.com/ryan-jan/hcl"
 )
 
 func TestScan(t *testing.T) {

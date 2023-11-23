@@ -10,7 +10,7 @@
 package customdecode
 
 import (
-	"github.com/hashicorp/hcl/v2"
+	"github.com/ryan-jan/hcl"
 	"github.com/zclconf/go-cty/cty"
 )
 

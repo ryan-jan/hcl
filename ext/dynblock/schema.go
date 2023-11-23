@@ -3,7 +3,7 @@
 
 package dynblock
 
-import "github.com/hashicorp/hcl/v2"
+import "github.com/ryan-jan/hcl"
 
 var dynamicBlockHeaderSchema = hcl.BlockHeaderSchema{
 	Type:       "dynamic",

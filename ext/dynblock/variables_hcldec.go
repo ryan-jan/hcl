@@ -4,8 +4,8 @@
 package dynblock
 
 import (
-	"github.com/hashicorp/hcl/v2"
-	"github.com/hashicorp/hcl/v2/hcldec"
+	"github.com/ryan-jan/hcl"
+	"github.com/ryan-jan/hcl/hcldec"
 )
 
 // VariablesHCLDec is a wrapper around WalkVariables that uses the given hcldec

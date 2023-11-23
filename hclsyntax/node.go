@@ -4,7 +4,7 @@
 package hclsyntax
 
 import (
-	"github.com/hashicorp/hcl/v2"
+	"github.com/ryan-jan/hcl"
 )
 
 // Node is the abstract type that every AST node implements.

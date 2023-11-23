@@ -1,4 +1,4 @@
-module github.com/hashicorp/hcl/v2
+module github.com/ryan-jan/hcl
 
 go 1.18
 

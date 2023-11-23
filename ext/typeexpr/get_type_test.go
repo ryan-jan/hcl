@@ -7,14 +7,14 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/hashicorp/hcl/v2/gohcl"
+	"github.com/ryan-jan/hcl/gohcl"
 
 	"github.com/google/go-cmp/cmp"
 	"github.com/zclconf/go-cty/cty"
 
-	"github.com/hashicorp/hcl/v2"
-	"github.com/hashicorp/hcl/v2/hclsyntax"
-	"github.com/hashicorp/hcl/v2/json"
+	"github.com/ryan-jan/hcl"
+	"github.com/ryan-jan/hcl/hclsyntax"
+	"github.com/ryan-jan/hcl/json"
 )
 
 var (

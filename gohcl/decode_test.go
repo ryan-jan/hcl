@@ -10,8 +10,8 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/hashicorp/hcl/v2"
-	hclJSON "github.com/hashicorp/hcl/v2/json"
+	"github.com/ryan-jan/hcl"
+	hclJSON "github.com/ryan-jan/hcl/json"
 	"github.com/zclconf/go-cty/cty"
 )
 

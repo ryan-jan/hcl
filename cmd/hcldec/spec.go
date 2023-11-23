@@ -6,10 +6,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/hashicorp/hcl/v2"
-	"github.com/hashicorp/hcl/v2/ext/userfunc"
-	"github.com/hashicorp/hcl/v2/gohcl"
-	"github.com/hashicorp/hcl/v2/hcldec"
+	"github.com/ryan-jan/hcl"
+	"github.com/ryan-jan/hcl/ext/userfunc"
+	"github.com/ryan-jan/hcl/gohcl"
+	"github.com/ryan-jan/hcl/hcldec"
 	"github.com/zclconf/go-cty/cty"
 	"github.com/zclconf/go-cty/cty/function"
 )

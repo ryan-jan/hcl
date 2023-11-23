@@ -14,8 +14,8 @@ import (
 	"github.com/zclconf/go-cty/cty"
 	"github.com/zclconf/go-cty/cty/function"
 
-	"github.com/hashicorp/hcl/v2"
-	"github.com/hashicorp/hcl/v2/hclsyntax"
+	"github.com/ryan-jan/hcl"
+	"github.com/ryan-jan/hcl/hclsyntax"
 )
 
 // Verify that all of our spec types implement the necessary interfaces

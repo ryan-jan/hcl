@@ -4,7 +4,7 @@
 package hclsyntax
 
 import (
-	"github.com/hashicorp/hcl/v2"
+	"github.com/ryan-jan/hcl"
 )
 
 // File is the top-level object resulting from parsing a configuration file.

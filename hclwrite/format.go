@@ -4,7 +4,7 @@
 package hclwrite
 
 import (
-	"github.com/hashicorp/hcl/v2/hclsyntax"
+	"github.com/ryan-jan/hcl/hclsyntax"
 )
 
 // format rewrites tokens within the given sequence, in-place, to adjust the

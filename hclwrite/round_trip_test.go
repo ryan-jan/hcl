@@ -12,8 +12,8 @@ import (
 	"github.com/zclconf/go-cty/cty/function"
 	"github.com/zclconf/go-cty/cty/function/stdlib"
 
-	"github.com/hashicorp/hcl/v2"
-	"github.com/hashicorp/hcl/v2/hclsyntax"
+	"github.com/ryan-jan/hcl"
+	"github.com/ryan-jan/hcl/hclsyntax"
 )
 
 func TestRoundTripVerbatim(t *testing.T) {

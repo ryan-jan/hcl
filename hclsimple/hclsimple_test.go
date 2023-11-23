@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/hashicorp/hcl/v2/hclsimple"
+	"github.com/ryan-jan/hcl/hclsimple"
 )
 
 func Example_nativeSyntax() {

@@ -4,7 +4,7 @@
 package hcled
 
 import (
-	"github.com/hashicorp/hcl/v2"
+	"github.com/ryan-jan/hcl"
 )
 
 type contextStringer interface {

@@ -6,7 +6,7 @@ package gohcl
 import (
 	"reflect"
 
-	"github.com/hashicorp/hcl/v2"
+	"github.com/ryan-jan/hcl"
 )
 
 var victimExpr hcl.Expression

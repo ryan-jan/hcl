@@ -12,9 +12,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/hashicorp/hcl/v2"
-	"github.com/hashicorp/hcl/v2/hclparse"
-	"github.com/hashicorp/hcl/v2/hclwrite"
+	"github.com/ryan-jan/hcl"
+	"github.com/ryan-jan/hcl/hclparse"
+	"github.com/ryan-jan/hcl/hclwrite"
 	"golang.org/x/crypto/ssh/terminal"
 )
 

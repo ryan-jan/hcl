@@ -8,9 +8,9 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/hashicorp/hcl/v2"
-	"github.com/hashicorp/hcl/v2/hcldec"
-	"github.com/hashicorp/hcl/v2/hcltest"
+	"github.com/ryan-jan/hcl"
+	"github.com/ryan-jan/hcl/hcldec"
+	"github.com/ryan-jan/hcl/hcltest"
 	"github.com/zclconf/go-cty-debug/ctydebug"
 	"github.com/zclconf/go-cty/cty"
 )

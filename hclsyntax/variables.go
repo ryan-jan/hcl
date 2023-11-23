@@ -4,7 +4,7 @@
 package hclsyntax
 
 import (
-	"github.com/hashicorp/hcl/v2"
+	"github.com/ryan-jan/hcl"
 )
 
 // Variables returns all of the variables referenced within a given experssion.

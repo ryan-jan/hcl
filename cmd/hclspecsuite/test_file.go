@@ -9,9 +9,9 @@ import (
 	"github.com/zclconf/go-cty/cty"
 	"github.com/zclconf/go-cty/cty/convert"
 
-	"github.com/hashicorp/hcl/v2"
-	"github.com/hashicorp/hcl/v2/ext/typeexpr"
-	"github.com/hashicorp/hcl/v2/gohcl"
+	"github.com/ryan-jan/hcl"
+	"github.com/ryan-jan/hcl/ext/typeexpr"
+	"github.com/ryan-jan/hcl/gohcl"
 )
 
 type TestFile struct {

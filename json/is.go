@@ -4,7 +4,7 @@
 package json
 
 import (
-	"github.com/hashicorp/hcl/v2"
+	"github.com/ryan-jan/hcl"
 )
 
 // IsJSONExpression returns true if and only if the given expression is one
